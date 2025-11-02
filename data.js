@@ -5,7 +5,7 @@ export default  [
     cover: "1.jpg",
     file: "01PuteiroEmJoãoPessoa.mp3",
   },  
-  {
+  /*{
     title:"2 -",
     artist: "",
     cover: "1.jpeg",
@@ -58,6 +58,6 @@ export default  [
     artist: "",
     cover: "1.jpeg",
     file: "10.mp3",
-  }
+  }*/
  ];
 
