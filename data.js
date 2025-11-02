@@ -84,16 +84,16 @@ export default  [
     file: "14Selim.mp3",
   },  
   {
-    title:"15 - PUTEIRO EM JOÃO PESSOA (REMIX)",
+    title:"15 - Puteiro em João Pessoa Acústico",
     artist: "Raimundos",
     cover: "1.jpg",
-    file: "15PUTEIROEMJOAOPESSOAREMIX.mp3",
+    file: "15PuteiroemJoãoPessoaAcustico.mp3",
   },  
   {
-    title:"16 - SELIM acústico",
+    title:"16 - Selim acústico",
     artist: "Raimundos",
     cover: "1.jpg",
-    file: "16SELIMacustico.mp3",
+    file: "16Selimacustico.mp3",
   }
  ];
 
