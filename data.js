@@ -4,8 +4,8 @@ export default  [
     artist: "Raimundos",
     cover: "1.jpg",
     file: "01PuteiroEmJoãoPessoa.mp3",
-  },  
-  /*{
+  }/*,  
+  {
     title:"2 -",
     artist: "",
     cover: "1.jpeg",
